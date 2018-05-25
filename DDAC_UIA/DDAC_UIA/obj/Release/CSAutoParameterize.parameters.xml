@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="AirlineDB-Web.config Connection String" description="AirlineDB Connection String used in web.config by the application to access the database." defaultValue="Server=tcp:brendenlew.database.windows.net,1433;Database=AirlineDB;User ID=Brendenlew;Password=P@SSW0RD;Connection Timeout=30;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\BrendenLew\\documents\\visual\ studio\ 2017\\Projects\\DDAC_UIA\\DDAC_UIA\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='AirlineDB']/@connectionString" />
+  </parameter>
+</parameters>
